@@ -1,1 +1,1 @@
-Scaleup Projects
+Scaleup Project
